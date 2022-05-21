@@ -1,0 +1,23 @@
+body {
+  background-color: #03045E;
+}
+
+hr {
+  border-style: solid;
+  border-top-style: none;
+  border-color: gray;
+  border-width: 10px;
+  width: 95%;
+}
+
+h1 {
+  color: #00B4D8;
+}
+
+h2 {
+  color: #90E0EF;
+}
+
+p, a, td, li, label {
+  color: white;
+}
